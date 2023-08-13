@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Characters from "./characters";
+import Characters from "./Characters";
 
 function NavPage({page, setPage}){
   return(
