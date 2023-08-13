@@ -1,5 +1,5 @@
 import React from "react";
-import CharacterList from "./components/characterList";
+import CharacterList from "./components/CharactersList";
 
 function App() {
   
